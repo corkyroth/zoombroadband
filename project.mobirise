@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 2,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "We really want to bring Zoom Broadband to your neighborhood.<br><br>",
+          "text": "We're working hard to expand our service area to bring unlimited, super-fast Internet to your home. In order to justify the cost of building new towers, we need least 18 customers to subscribe within about a 2 mile area.<br><br>Over the past few months, we have contructed 3 new state-of-the-art towers. Community leaders in Woodlawn, East Atlanta and Berea lead local campaigns using FaceBook and word of mouth to get enough of their neighbors to sign-up.<br><br>If you want Zoom Broadband, we encourage you to get the word out in your neighborhood.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://forms.zohopublic.com/corky/form/WoodlawnTowerProgram/formperma/3eC1H07F3g3h72776C44A3Cmj\" data-toolbar=\"-mbrBtnMove\">Click here to sign up</a> "
+        }
+      ]
+    }
+  }
+}
